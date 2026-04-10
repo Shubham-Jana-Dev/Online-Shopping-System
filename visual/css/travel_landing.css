@@ -148,6 +148,7 @@ img{max-width: 100%;height: auto;}
   .promo-card-icon { font-size: 24px; margin-bottom: 8px; }
   .promo-card-title { font-size: 13px; font-weight: 600; color: var(--white); }
   .promo-card-sub { font-size: 11px; color: rgba(255,255,255,.5); margin-top: 3px; }
+  .promo-card-icon i{color: var(--white);}
 
   /* FLIGHTS */
   .flights-section { background: var(--light); }
