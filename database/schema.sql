@@ -50,7 +50,7 @@ Location text,
 Password VARCHAR(100));
 
 --by soumalyo:-
-create Table product_datails{
+create Table IF NOT EXISTS product_datails{
     product_id int AUTO_INCREMENT unique Primary key,
     category_id int unique not null,
     product_name varchar(20) not null,
