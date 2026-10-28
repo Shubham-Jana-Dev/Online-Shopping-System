@@ -6,6 +6,7 @@
     --headline-color: #1A1A1A;
     --border-color: #E5E5E0;
 }
+//
 
 body {
     background-color: var(--bg-color);
